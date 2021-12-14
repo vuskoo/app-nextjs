@@ -5,6 +5,7 @@ powered by content stored in files.
 
 This theme is deprecated and will no longer be maintained by Stackbit. 
 Stackbit launched a new major version that brings a superior developer experience and visual editing capabilities.
+
 Click the button below to create a new website using the new version of Stackbit.
 <p align="left">
   <a href="https://app.stackbit.com/create?utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes"><img alt="Create with Stackbit" src="https://assets.stackbit.com/badge/create-with-stackbit.svg"/></a>
